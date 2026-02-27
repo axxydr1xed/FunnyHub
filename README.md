@@ -15,3 +15,7 @@ A: Python 3.14.3
 Q: Next script when?
 
 A: When Geometry Dash 2.21 releases. Jokes aside, whenever I feel like it.
+
+Q: Can I commit an edited version of the hub with a script of mine if I want to?
+
+A: Sure! But I'd love if you kept it as simple as / slightly more complicated than the initial 2 scripts, as in don't remake the entirety of Terraria's Calamity Mod in it...please?
