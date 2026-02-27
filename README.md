@@ -9,6 +9,9 @@ The first semi-serious project I've ever made, and the longest manually written 
 
 ### FAQ
 Q: What programming language does it use?
+
 A: Python 3.14.3
+
 Q: Next script when?
+
 A: When Geometry Dash 2.21 releases. Jokes aside, whenever I feel like it.
