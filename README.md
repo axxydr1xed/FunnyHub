@@ -1,3 +1,5 @@
+# !!! THIS IS A DEPRECATED PROJECT; DO NOT EXPECT ANY UPDATES !!!
+
 # FunnyHub 1.0.0
 A script hub with somewhat funny yet utterly useless little scripts. One may even call them microgames!
 The first semi-serious project I've ever made, and the longest manually written one of mine.
